@@ -133,8 +133,8 @@ STRIPE_SECRET_KEY="YOUR_STRIPE_SECRET_KEY"
 
 # Important Links
 
-- [x] `Client Side` Live Link: [Click Here]()
-- [x] `Server Side` Live Link: [Click Here]()
+- [x] `Client Side` Live Link: [Click Here](https://client-bd-calling-ecommerce.vercel.app/)
+- [x] `Server Side` Live Link: [Click Here](https://server-bd-calling-ecommerce.vercel.app/)
 - [x] `Reference Site` Live Link: [Click Here](https://chisnghiax.com/ciseco/)
 
 # Author
