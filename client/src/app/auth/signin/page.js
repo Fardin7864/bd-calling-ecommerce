@@ -54,7 +54,7 @@ const Signin = () => {
           <hr className="w-full" />
         </div>
         <div>
-          <span className=" font-bold">Buyer:</span> demo@example.com & Demo@123 <br/> <span className=" font-bold">Seller:</span> devhasibulislam@gmail.com &
+          <span className=" font-bold">Buyer:</span> demo@example.com & Demo@123 <br/> <span className=" font-bold">Seller:</span> fardinhasan@gmail.com &
           Hasib@123 <br/> <span className=" font-bold">Admin:</span> admin@example.com & Admin@123
         </div>
         <form

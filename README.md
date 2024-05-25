@@ -132,7 +132,7 @@ STRIPE_SECRET_KEY="YOUR_STRIPE_SECRET_KEY"
 ```
 ###
 Buyer: demo@example.com & Demo@123
-Seller: devhasibulislam@gmail.com & Hasib@123
+Seller: fardinhasan@gmail.com & Hasib@123
 Admin: admin@example.com & Admin@123 => don't create any occurrence 
 
 # Important Links
